@@ -214,7 +214,8 @@ body {
         position: relative; }
       #main-nav .container ul li a {
         color: #333;
-        text-decoration: none; }
+        text-decoration: none;
+        transition: all 0.2s ease-in; }
       #main-nav .container ul li ul {
         display: none; }
       #main-nav .container ul li:hover {
